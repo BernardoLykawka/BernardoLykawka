@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Software Engineering student at PUCRS and a fullstack developer.<br><br>Experienced in mobile and web development, using modern technologies and best practices.</p>
+<p align="left">👽 I'm Software Engineering student at PUCRS and a fullstack developer.<br><br>🗿 Experienced in mobile 📱 and web 💻 development, using modern frameworks and best practices.<br><br> 🔎 I love learning new technologies and my favorite hobby is playing videogames 👾 </p>
 
 ###
 
